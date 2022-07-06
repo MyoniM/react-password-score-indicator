@@ -20,6 +20,10 @@
         "meter",
         "indicator"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MyoniM/react-password-score-indicator.git"
+    },
     "author": "se.yonatan.merkebu@gmail.com",
     "license": "MIT",
     "devDependencies": {
